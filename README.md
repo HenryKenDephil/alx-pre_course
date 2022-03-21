@@ -1,2 +1,1 @@
-# alx-pre_course
-up_to_date
+this is an alx SE repository
